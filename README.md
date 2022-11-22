@@ -1,14 +1,23 @@
+<br />
+
 
   # Greetings from Japan, from your computer to mine; 🍡
 
+<br />
 
 - ✨ Hi, I’m @kristinetuazon 
 - 👀 I’m interested in coffee, journaling, photography, travelling and coding!
 - 🌱 I’m currently learning JavaScript, HTML, CSS. I just picked up Java and hopefully Kotlin recently because of pure curiosity. 🗡🐈
 - 📫 How to reach me - kristine.jane.tuazon@gmail.com or drop a message in my instagram account https://www.instagram.com/kristinetuazon.
 
+<br />
+<br />
+<br />
 
 ## Tech Stack 🥞
+
+<br />
+
 <img align="right" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 <img align="right" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
 <img align="right" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
@@ -22,11 +31,12 @@
 <img align="right" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 
 
-
-
+<br />
+<br />
 <br />
 
 ## Stats 📊
+<br />
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinetuazon&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
