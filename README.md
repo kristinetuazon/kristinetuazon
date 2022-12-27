@@ -8,7 +8,7 @@
 - ✨ Hi, I’m @kristinetuazon 
 - 👀 I’m interested in coffee, journaling, photography, travelling and coding!
 - 🌱 I’m currently learning JavaScript, HTML, CSS. I just picked up Java because of pure curiosity. 🗡🐈
-- 📫 How to reach me - kristine.jane.tuazon@gmail.com or drop a message in my instagram account https://www.instagram.com/kristinetuazon.
+- 📫 How to reach me - kristine.jane.tuazon@gmail.com, drop a message in my instagram or linkedIn account https://www.instagram.com/kristinetuazon | https://www.linkedin.com/in/kristinejanetuazon/.
 
 <br />
 <br />
