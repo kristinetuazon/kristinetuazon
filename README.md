@@ -40,7 +40,7 @@
 ## Stats 📊
 <br />
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinetuazon&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinetuazon)](https://github.com/anuraghazra/github-readme-stats)
  
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kristinetuazon&theme=default)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kristinetuazon&theme=default)
