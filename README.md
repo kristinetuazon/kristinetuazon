@@ -20,7 +20,7 @@
 
 <img align="right" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 <img align="right" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
-<img align="right" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+<img align="right" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
 <img align="right" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
 <img align="right" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">
 <img align="right" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg">
